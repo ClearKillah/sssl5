@@ -1,5 +1,7 @@
-СССЛ, Практика 4
+# СССЛ, Практика 4
 Козлов Филипп Сергеевич
+
+
 ![image](https://github.com/user-attachments/assets/7d59b6c2-33a1-4958-a511-cfcff89c98be)
 ![image](https://github.com/user-attachments/assets/a7b2672a-2639-436e-b2d7-0befa6c128d5)
 Импортируем логи
